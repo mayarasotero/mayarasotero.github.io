@@ -5,9 +5,6 @@
 1. Amazing Graph: https://mayarasotero.github.io/devchallenge-desafios/landingpage_amazing_graph/
 Resumo:
 
-```markdown
-Syntax highlighted code block
-
 ## Projetos Frontend Mentor
 
 1. NFT preview card: https://mayarasotero.github.io/frontendmentor-desafios/nft-preview-card-component/
