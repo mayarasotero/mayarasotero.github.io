@@ -2,7 +2,7 @@
 
 ## Projetos DevChallenge
 
-- Amazing Graph: https://mayarasotero.github.io/devchallenge-desafios/landingpage_amazing_graph/
+- [Amazing Graph]: (https://mayarasotero.github.io/devchallenge-desafios/landingpage_amazing_graph/)
 
 ## Projetos Frontend Mentor
 
