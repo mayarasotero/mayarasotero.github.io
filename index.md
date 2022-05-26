@@ -1,17 +1,17 @@
-## Welcome to GitHub Pages
+## Bem-vindo ao meu portfólio no GitHub
 
-You can use the [editor on GitHub](https://github.com/mayarasotero/mayarasotero.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Projetos DevChallenge
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Amazing Graph: https://mayarasotero.github.io/devchallenge-desafios/landingpage_amazing_graph/
+Resumo:
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Projetos Frontend Mentor
+
+1. NFT preview card: https://mayarasotero.github.io/frontendmentor-desafios/nft-preview-card-component/
+
 ## Header 2
 ### Header 3
 
