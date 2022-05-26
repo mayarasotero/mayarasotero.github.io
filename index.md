@@ -1,16 +1,22 @@
-## Bem-vindo ao meu portfólio no GitHub
+# Bem-vindo ao meu portfólio no GitHub
 
 ## Projetos DevChallenge
 
-1. Amazing Graph: https://mayarasotero.github.io/devchallenge-desafios/landingpage_amazing_graph/
-Resumo:
+- Amazing Graph: https://mayarasotero.github.io/devchallenge-desafios/landingpage_amazing_graph/
 
 ## Projetos Frontend Mentor
 
-1. NFT preview card: https://mayarasotero.github.io/frontendmentor-desafios/nft-preview-card-component/
+- NFT preview card: https://mayarasotero.github.io/frontendmentor-desafios/nft-preview-card-component/
 
-## Header 2
-### Header 3
+## Projetos Free Code Camp
+
+- Tribute Page: https://mayarasotero.github.io/fcc-responsivewebdesign/fcc-build-a-tribute-page/
+- Survey Form: https://mayarasotero.github.io/fcc-responsivewebdesign/fcc-build-a-survey-form/
+- Product Landing Page: https://mayarasotero.github.io/fcc-responsivewebdesign/fcc-product-landing-page/
+- Technical Documentation Page: https://mayarasotero.github.io/fcc-responsivewebdesign/fcc-technical-documentation-page/
+- Portfolio web page: https://mayarasotero.github.io/fcc-responsivewebdesign/fcc-build-a-personal-portfolio-webpage/
+
+
 
 - Bulleted
 - List
