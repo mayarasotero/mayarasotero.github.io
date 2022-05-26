@@ -16,13 +16,9 @@
 - Technical Documentation Page: https://mayarasotero.github.io/fcc-responsivewebdesign/fcc-technical-documentation-page/
 - Portfolio web page: https://mayarasotero.github.io/fcc-responsivewebdesign/fcc-build-a-personal-portfolio-webpage/
 
+## Projetos DIO (Digital Innovation One)
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Página do Instagram: https://mayarasotero.github.io/dio-desafios/dio-desafio-instagram
 
 **Bold** and _Italic_ and `Code` text
 
